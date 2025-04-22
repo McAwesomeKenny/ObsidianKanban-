@@ -1,0 +1,14 @@
+{
+  "show-checkboxes": true,
+  "full-list-lane-width": true,
+  "move-tags": false,
+  "tag-colors": [],
+  "new-line-trigger": "shift-enter",
+  "date-colors": [],
+  "lane-width": 250,
+  "move-dates": false,
+  "new-note-folder": "\"",
+  "inline-metadata-position": "footer",
+  "move-task-metadata": true,
+  "show-relative-date": true
+}
